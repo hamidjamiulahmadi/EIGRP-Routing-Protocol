@@ -1,7 +1,7 @@
 <h1>EIGRP Routing Protocol</h1>
 
 <h2>Goal</h2>
-<br />In this lab i will configure the Enhanced Interior Gateway Routing Protocol (EIGRP) between Frankfurt customer branch and Berlin Sales branch and at the end testing the lab,furthermore, i will use in this lab 5 CISCO Routers, two Switches, two PCs and two laptops, first i will configure each Routers with all its interfaces then i will assign each PCs and Laptopos thiers IP addresses, next i will configure the EIGRP protocol to each Routers and define each interfaces their networks and at the end testing the lab. 
+<br />In this lab i will configure the Enhanced Interior Gateway Routing Protocol (EIGRP) between Frankfurt customer branch and Berlin Sales branch,furthermore, i will use in this lab 5 CISCO Routers, two Switches, two PCs and two laptops, first i will configure each Routers with all its interfaces then i will assign each PCs and Laptopos thiers IP addresses, next i will configure the EIGRP protocol to each Routers and define each interfaces their networks and at the end testing the lab. 
 <br />
 
 
