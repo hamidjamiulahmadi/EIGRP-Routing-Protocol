@@ -11,7 +11,7 @@
 - <b>Windows 11</b>
 
 <h2>Lab walk-through:</h2>
-
+Step Nr.1: first step, i will design the Network diagram to have a better overview over the Process and hot it would be done.
 <p align="center">
 Step Nr.1 : Network Diagram: <br/>
 <img src="https://i.imgur.com/SHFm9Ml.png" height="80%" width="80%" alt="Lab Steps Nr.1"/>
