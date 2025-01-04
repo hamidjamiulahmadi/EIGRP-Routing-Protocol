@@ -46,17 +46,11 @@ Step Nr.5 : ping of communication : <br/>
 <img src="https://i.imgur.com/bapyRfa.png" height="80%" width="80%" alt="Lab Steps Nr.5"/>
 <img src="https://i.imgur.com/VirWWQI.png" height="80%" width="80%" alt="Lab Steps Nr.5"/>
 <br />
-Step Nr.6: Following the configuration of EIGRP, I will now initiate a ping from the Frankfurt customer branch to the Berlin sales branch, as well as in the reverse direction, to verify that the computers are able to communicate with each other and ensure network connectivity.
+Step Nr.6: As demonstrated previously, the computers can effectively communicate with one another. I will now utilize the Tracert command to ascertain the path to a specified destination by sending Internet Control Message Protocol (ICMP) echo packets. This will provide an overview of the network, and as you can observe, the lab has been successfully completed.
 <p align="center">
-Step Nr.6 : ping of communication : <br/>
-<img src="https://i.imgur.com/bapyRfa.png" height="80%" width="80%" alt="Lab Steps Nr.6"/>
-<img src="https://i.imgur.com/VirWWQI.png" height="80%" width="80%" alt="Lab Steps Nr.6"/>
-<br />
-Step Nr.7: As demonstrated previously, the computers can effectively communicate with one another. I will now utilize the Tracert command to ascertain the path to a specified destination by sending Internet Control Message Protocol (ICMP) echo packets. This will provide an overview of the network, and as you can observe, the lab has been successfully completed.
-<p align="center">
-Step Nr.7 : Lab Accomplishment : <br/>
-<img src="https://i.imgur.com/UQnhuLd.png" height="80%" width="80%" alt="Lab Steps Nr.7"/>
-<img src="https://i.imgur.com/xEuuOqC.png" height="80%" width="80%" alt="Lab Steps Nr.7"/>
+Step Nr.6 : Lab Accomplishment : <br/>
+<img src="https://i.imgur.com/UQnhuLd.png" height="80%" width="80%" alt="Lab Steps Nr.6"/>
+<img src="https://i.imgur.com/xEuuOqC.png" height="80%" width="80%" alt="Lab Steps Nr.6"/>
 <br />
 
 
