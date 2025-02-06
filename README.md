@@ -14,7 +14,7 @@
 Step Nr.1: The initial step involves creating a network diagram to provide a clearer understanding of the process and illustrate the methodology to be employed.
 <p align="center">
 Step Nr.1 : Network Diagram: <br/>
-<img src="https://i.imgur.com/SHFm9Ml.png" height="80%" width="80%" alt="Lab Steps Nr.1"/>
+<img src="https://i.imgur.com/xhtp4q7.png" height="80%" width="80%" alt="Lab Steps Nr.1"/>
 <br />
 Step Nr.2: Subsequently, I will allocate IP addresses to each interface of all routers, ranging from Router 1 to Router 5, in accordance with the specifications outlined in the network diagram.
 <p align="center">
